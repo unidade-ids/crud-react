@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/unidade-ids/crud-react/static/css/main.d1e1a33d.chunk.css",
+    "main.js": "/unidade-ids/crud-react/static/js/main.f3f606fc.chunk.js",
+    "main.js.map": "/unidade-ids/crud-react/static/js/main.f3f606fc.chunk.js.map",
+    "runtime-main.js": "/unidade-ids/crud-react/static/js/runtime-main.5f7bea6e.js",
+    "runtime-main.js.map": "/unidade-ids/crud-react/static/js/runtime-main.5f7bea6e.js.map",
+    "static/js/2.08e02969.chunk.js": "/unidade-ids/crud-react/static/js/2.08e02969.chunk.js",
+    "static/js/2.08e02969.chunk.js.map": "/unidade-ids/crud-react/static/js/2.08e02969.chunk.js.map",
+    "index.html": "/unidade-ids/crud-react/index.html",
+    "precache-manifest.2d76dc15c8c8e9debc03e186f09c3961.js": "/unidade-ids/crud-react/precache-manifest.2d76dc15c8c8e9debc03e186f09c3961.js",
+    "service-worker.js": "/unidade-ids/crud-react/service-worker.js",
+    "static/css/main.d1e1a33d.chunk.css.map": "/unidade-ids/crud-react/static/css/main.d1e1a33d.chunk.css.map",
+    "static/js/2.08e02969.chunk.js.LICENSE.txt": "/unidade-ids/crud-react/static/js/2.08e02969.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f7bea6e.js",
+    "static/js/2.08e02969.chunk.js",
+    "static/css/main.d1e1a33d.chunk.css",
+    "static/js/main.f3f606fc.chunk.js"
+  ]
+}
